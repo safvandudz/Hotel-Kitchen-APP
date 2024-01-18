@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132513231027",
+    "project_id": "lognfire-ed3de",
+    "storage_bucket": "lognfire-ed3de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132513231027:android:08de332f24c001496500c6",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132513231027-hqagponjq22t9s3vvfakosfn3m7a93kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8y922l4xSPGUnZbS7zTI24E_rKDxxwuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132513231027-hqagponjq22t9s3vvfakosfn3m7a93kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
